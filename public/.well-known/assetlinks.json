@@ -1,0 +1,6 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.herokuapp.test_shopisthan_sellers.twa",
+                   "sha256_cert_fingerprints": ["AF:26:4A:2A:0C:35:96:8B:31:25:E9:EE:EB:58:B0:A7:D3:0B:17:12:E2:A6:F4:88:46:A0:76:2D:47:4F:21:E5"] }
+    }
+]

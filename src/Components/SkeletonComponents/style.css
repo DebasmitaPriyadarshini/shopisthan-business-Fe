@@ -1,0 +1,415 @@
+@keyframes loading {
+  0% {
+    transform: translateX(0);
+  }
+  50%,
+  100% {
+    transform: translateX(460px);
+  }
+}
+
+.store-profile-dic-skkelton-view {
+  display: flex;
+  align-items: flex-start;
+  margin: 15px 0;
+  padding: 0px 20px;
+  border-radius: 4px;
+  position: relative;
+}
+
+.store-profile-curved-skeleton-view {
+  width: 5em;
+  height: 5em;
+  border-radius: 0.5em;
+  background: #f2f2f2;
+  position: relative;
+  overflow: hidden;
+}
+
+.store-profile-curved-skeleton-view::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 80px;
+  border-radius: 0.5em;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.store-jkd-name-in-skeleton-view-in-d {
+  width: 85%;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.store-jkd-name-in-skeleton-view-in-d::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 100%;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.store-city-view-in-skeletio-on {
+  width: 50%;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.store-city-view-in-skeletio-on::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 100%;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.store-category-scroll-in-skeleton {
+  width: 100%;
+  height: 22px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.store-category-scroll-in-skeleton::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 22px;
+  margin-top: 3px;
+  overflow: hidden;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.stor-search-bar-in-skeleton {
+  width: 100%;
+  height: 30px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.stor-search-bar-in-skeleton::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 30px;
+  margin-top: 3px;
+  overflow: hidden;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.stoore-product-box-skkelton-view {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* --------- Product View Starts -----------  */
+
+.product-ske-name-in-skeleton-view {
+  width: 85%;
+  height: 20px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+.product-ske-name-in-skeleton-view::before {
+  width: 85%;
+  height: 20px;
+
+  position: relative;
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.product-ske-category-in-skeleton-view {
+  width: 30%;
+  height: 12px;
+  background: #f2f2f2;
+  margin-top: 5px;
+  position: relative;
+  overflow: hidden;
+}
+
+.product-ske-category-in-skeleton-view::before {
+  width: 30%;
+  height: 12px;
+  background: #f2f2f2;
+
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+.product-ske-price-and-disscount-in-skeleton-view {
+  width: 50%;
+  height: 15px;
+  background: #f2f2f2;
+  margin-top: 5px;
+  position: relative;
+  overflow: hidden;
+}
+.product-ske-price-and-disscount-in-skeleton-view::before {
+  width: 50%;
+  height: 15px;
+
+  background: #f2f2f2;
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.product-ske-description-in-skeleton-view {
+  width: 85%;
+  height: 45px;
+  background: #f2f2f2;
+  margin-top: 5px;
+  position: relative;
+  overflow: hidden;
+}
+
+.product-ske-description-in-skeleton-view::before {
+  width: 85%;
+  height: 45px;
+  background: #f2f2f2;
+
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.product-ske-image-in-skeleton-view {
+  width: 50%;
+  height: 7em;
+  background: #f2f2f2;
+  margin-top: 5px;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+}
+
+.product-ske-image-in-skeleton-view::before {
+  width: 50%;
+  height: 7em;
+  background: #f2f2f2;
+
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.Store-navbarname-and-image-of-profile {
+  padding: 20px;
+}
+
+.profile-logo-in-navbar-in-skeleton-view {
+  background: #f2f2f2;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  height: 2.5em;
+  width: 2.5em;
+}
+
+.profile-logo-in-navbar-in-skeleton-view::before {
+  background: #f2f2f2;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  height: 2.5em;
+  width: 2.5em;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.hellow-word-of-navbar-skeleton {
+  width: 4em;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hellow-word-of-navbar-skeleton::before {
+  width: 4em;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.shopne-skeleton-view-store {
+  width: 8em;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.shopne-skeleton-view-store::before {
+  width: 8em;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.Share-paragrap-skeleton {
+  width: 70%;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+}
+.Share-paragrap-skeleton::before {
+  width: 70%;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 3px;
+  position: relative;
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.completed-sharre-storew-store {
+  width: 80%;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.completed-sharre-storew-store::before {
+  width: 80%;
+  height: 18px;
+  background: #f2f2f2;
+  margin-top: 8px;
+  position: relative;
+  overflow: hidden;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.Share-btn-in-skeleton-view-in {
+  width: 100%;
+  height: 3em;
+  background: #f2f2f2;
+  margin-top: 10px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.Share-btn-in-skeleton-view-in::before {
+  width: 100%;
+  height: 3em;
+  background: #f2f2f2;
+  margin-top: 10px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 5px;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}
+
+.Share-modal-box-in-skeleton-view-in {
+  margin: 20px;
+  background: #7b7b7b0a;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.Share-modal-box-in-skeleton-view-in::before::before {
+  margin: 20px;
+  background: #7b7b7b0a;
+  padding: 5px;
+  border-radius: 5px;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
+  animation: loading 2s infinite linear;
+}

@@ -1,0 +1,261 @@
+.store-dashboard-starts {
+  margin-top: 80px;
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
+.new-profile-dashboard-navbar-btn {
+  display: flex;
+}
+
+.new-store-dashboard-profile-header-one {
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+.new-store-dashboard-profile-header-two {
+  font-weight: 200;
+}
+
+.ieuidneidejdkz {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+}
+
+.new-store-order-pop-order-items-info-div {
+  padding: 0em 1em;
+}
+
+.new-table-for-order-using-division {
+  display: flex;
+  align-items: center;
+  border: 1px solid #9495a5a3;
+  min-width: 38em;
+  width: 38em;
+  gap: 18px;
+  border-radius: 0.5em;
+  margin-bottom: 1em;
+}
+
+.table-div-of-order-header {
+  width: 7.5em;
+  text-align: left;
+
+  /* padding: 0.8em; */
+}
+
+.table-div-of-order-header-product-img {
+  height: auto;
+  width: auto;
+  text-align: left;
+}
+
+.new-store-dashboard-order-pup-up-product-img {
+  height: 5rem;
+  width: 5rem;
+  border-radius: 1rem;
+  padding: 9px;
+}
+
+.bvpsfrpuvna {
+  width: 135px;
+  letter-spacing: 0.2px;
+  color: #1a1a1a;
+  line-height: 20px;
+  font-size: 15px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.table-div-of-order-header-for-product-title {
+  width: 9.5em;
+  text-align: left;
+}
+
+.title-of-product-items-odisy {
+  margin-bottom: 0.5em;
+}
+
+.new-store-order-pop-first-div-starts-for-order-pop-only {
+  height: 38em;
+  max-height: 38em;
+  width: 100%;
+  background: #fff;
+  min-width: 40rem;
+}
+
+.new-store-order-pop-for-total-price-only {
+  padding-right: 4.5rem;
+  padding-left: 2rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  overflow-y: scroll;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 13em;
+  /* border-top: 1px solid #9495a5a3 ; */
+}
+
+.new-store-order-pop-four-order-details-three-div {
+  overflow-y: scroll;
+  position: fixed;
+  padding: 20px 15px;
+  /* width: 100%; */
+  height: 13em;
+}
+
+.new-details-for-popup-nae-add-no {
+  overflow: hidden;
+  width: 240px;
+  letter-spacing: 0.2px;
+  color: #1a1a1a;
+  line-height: 20px;
+  font-size: 15px;
+}
+
+.confirmorderand-popconfirmgreen {
+  border: none;
+  background: green;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+.new-store-dashboard-order-pup-up-product-img {
+  height: 5rem;
+  width: 5rem;
+  border-radius: 1rem;
+  padding: 9px;
+}
+
+.order-confirmbtningap {
+  gap: 20px;
+  display: flex;
+}
+
+.orderid-inorderpop {
+  font-size: 18px;
+}
+
+.orderstausinpopupview {
+  font-size: 14px;
+  color: green;
+  padding-left: 1em;
+}
+
+.new-store-order-pop-secound-div-starts {
+  border-bottom: 1px solid #006aff;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-size: 1.5rem;
+}
+
+.new-store-order-pop-secound-headers-div-starts {
+  display: flex;
+  align-items: center;
+}
+
+.store-order-pop-up-cd-cinc-ede {
+  display: flex;
+  color: #1a1a1a;
+  align-items: center;
+}
+
+.orderid-inorderpop {
+  font-size: 18px;
+}
+.orderstausinpopupview {
+  font-size: 14px;
+  color: green;
+  padding-left: 1em;
+}
+
+.store-order-pop-up-order-id-div {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid #006aff;
+}
+.order-confirmbtningap {
+  grid-gap: 20px;
+  gap: 20px;
+  display: flex;
+}
+.confirmorderand-popconfirmgreen {
+  border: none;
+  background: green;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 3px;
+  font-size: 14px;
+}
+.notinstockorder-popred {
+  border: none;
+  background: red;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 3px;
+  font-size: 14px;
+}
+.for-order-recieved-dateandtime {
+  display: flex;
+  grid-gap: 5px;
+  gap: 5px;
+}
+
+.nv-si-dke-dnw-pep-snis-odpnd {
+  grid-gap: 5px;
+  gap: 5px;
+  text-align: center;
+  display: flex;
+}
+
+.new-order-details-pop-uop-user-and-vendor-details {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  line-height: 1.5;
+  font-size: 0.8rem;
+}
+
+.only-store-name-and-user-name {
+  color: grey;
+}
+
+.new-details-for-popup-nae-add-no {
+  overflow: hidden;
+  width: 240px;
+  letter-spacing: 0.2px;
+  color: #1a1a1a;
+  line-height: 20px;
+  font-size: 15px;
+}
+
+.for-address-use-only-paragraph {
+  width: 15rem;
+  letter-spacing: 0.2px;
+  color: #1a1a1a;
+  line-height: 18px;
+  font-size: 15px;
+}
+
+.new-store-order-pop-order-items-info-div {
+  padding: 0 1em;
+}
+.new-store-order-pop-four-order-details-three-div {
+  overflow-y: scroll;
+  position: fixed;
+  padding: 20px 15px;
+  height: 13em;
+}
+
+.for-user-customer-deatils {
+  text-align: end;
+}

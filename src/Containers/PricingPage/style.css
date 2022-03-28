@@ -1,0 +1,444 @@
+.content-for-pricing-heeader {
+  max-width: 40em;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  padding: 2rem;
+  margin-bottom: 60px;
+}
+
+.shopistha-at-pricing {
+  margin-bottom: 28px;
+  font-size: 16px;
+  line-height: 28px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.balance-text-for-pricing-head {
+  margin-bottom: 18px;
+  font-size: 44px;
+  line-height: 52px;
+  letter-spacing: -0.6px;
+  font-weight: 600;
+  color: #1a1a1a;
+  text-align: center;
+}
+
+.balance-text-for-pricing-head-respo {
+  display: none;
+}
+
+.font-size-large-for-pricing-head {
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  color: #1a1a1a;
+  text-align: center;
+}
+
+.button-gap-none {
+  text-align: center;
+  align-items: center;
+  background: #000;
+  color: white;
+  border: none;
+  border-radius: 0.3rem;
+  font-weight: 600;
+  font-size: 1em;
+  cursor: pointer;
+  padding: 20px;
+}
+
+/* / */
+
+.shopistha-at-pricing {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 18px;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+.arrow,
+.arrow-right {
+  position: relative;
+}
+
+.arrow::after,
+.arrow-right::after {
+  content: "›";
+  pointer-events: none;
+  display: inline-block;
+  margin-left: 0.25em;
+  transition: transform var(--duration-quick) var(--easing-sharp);
+}
+
+.balance-text-for-pricing-head {
+  font-size: 44px;
+  margin-bottom: 28px;
+  letter-spacing: -0.6px;
+  line-height: 52px;
+  margin-top: 0;
+}
+
+.new-paragraph-pof-chooese-plan {
+  font-size: 15px;
+  text-align: center;
+  line-height: 22px;
+  padding: 10px 0px;
+  color: #000;
+}
+
+.orignakl-price-of-pan-in-plan-sectioon {
+  font-size: 18px;
+  text-align: left;
+  padding: 0px;
+  color: #1a1a1a;
+  text-decoration: line-through;
+  margin-top: 8px;
+  padding-right: 5px;
+}
+
+.new-header-of-choose-paln-and-free-paln-header {
+  font-size: 25px;
+  text-align: center;
+  padding-bottom: 5px;
+  color: #000;
+}
+
+.for-justifying-the-content-in-center {
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.new-div-of-chooese-plan-first-diiv-of-free-pALN {
+  width: 18rem;
+  border: 1px solid #d9d9d9;
+  /* margin-left: 15px; */
+  min-height: 22.5rem;
+  border-radius: 5px;
+  color: #1a1a1a;
+  background: #fff;
+}
+
+.hfbdn-dedde-deldle-dejdj {
+  border-bottom: none;
+  padding: 16px 10px 0px 10px;
+  line-height: 1.5;
+}
+
+.ul-list-of-pricing-content {
+  list-style: none;
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  -webkit-tap-highlight-color: transparent;
+  line-height: 2.5;
+  color: #000;
+}
+
+.bordertop-btn-for-stre-plan {
+  border-top: 1px solid #d9d9d9;
+  display: flex;
+  justify-content: center;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+}
+
+.paddingtworem {
+  padding: 80px 2rem;
+  width: 50rem;
+}
+
+.for-width-auto-and-valje {
+  width: 50rem;
+}
+
+.balance-text-frequentlyasked-without-respo {
+  font-size: 36px;
+  line-height: 36px;
+  letter-spacing: -0.4px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.balance-text-frequentlyasked {
+  display: none;
+}
+
+.lsitofquestionasked-list {
+  border-bottom: 1px solid #d9d9d9;
+  margin-top: 1.25em;
+  color: #1a1a1a;
+}
+
+.question-in-the-list-li {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top: 1px solid #d9d9d9;
+  color: #464444;
+}
+
+.h6-gap-none {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.grid-flex-grid-valign-middle {
+  display: flex !important;
+  align-content: center !important;
+  align-items: center !important;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.grid-flex-grid-valign-middle:hover {
+  text-decoration: underline;
+}
+
+.tysh-sksjd-skdhdh {
+  display: flex;
+  justify-content: center;
+}
+
+.column-expand {
+  color: #312f2f;
+}
+
+.display-flex-and-justify-it-to-center {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.pricing-slider-for-pricingcards {
+  display: flex;
+  grid-gap: 10px;
+  grid-gap: 10px;
+  gap: 30px;
+  width: 100%;
+  justify-content: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.new-div-for-header-and-paragraphp-offee {
+  border-bottom: 1px solid #c7c7c7;
+  padding: 16px;
+  height: 12em;
+  display: flex;
+  align-items: center;
+}
+
+.new-flandkejd-deads-leds {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+}
+
+.free-Free-for-first-Year-div-span {
+  text-align: center;
+}
+.list-of-points-in-plan-ettc {
+  text-align: center;
+  font-size: 1rem;
+  padding: 11px 43px;
+  line-height: 2;
+}
+/*  */
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .content-for-pricing-heeader {
+    padding: 2rem;
+  }
+
+  .for-width-auto-and-valje {
+    width: 100%;
+  }
+  .list-of-points-in-plan-ettc {
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 12px 33px;
+    line-height: 2;
+  }
+  .new-flandkejd-deads-leds {
+    overflow-y: scroll;
+    display: block;
+    justify-content: center;
+    grid-gap: 35px;
+    gap: 35px;
+    height: 100%;
+  }
+  .shopistha-at-pricing {
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    color: #1a1a1a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 18px;
+  }
+  .for-justifying-the-content-in-center {
+    padding: 1rem;
+    justify-content: normal;
+    align-items: center;
+  }
+
+  .balance-text-for-pricing-head-respo {
+    font-size: 36px;
+    margin-bottom: 28px;
+    letter-spacing: -0.4px;
+    line-height: 48px;
+    margin-top: 0;
+    display: block;
+  }
+
+  .balance-text-for-pricing-head {
+    display: none;
+  }
+
+  .font-size-large-for-pricing-head {
+    font-size: 18px;
+  }
+
+  .new-paragraph-pof-chooese-plan {
+    font-size: 15px;
+    text-align: center;
+    line-height: 22px;
+    padding: 0px;
+  }
+
+  .new-div-for-header-and-paragraphp-offee {
+    height: auto;
+  }
+
+  .new-header-of-choose-paln-and-free-paln-header {
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding: 0px;
+    color: #1a1a1a;
+  }
+
+  .new-div-of-chooese-plan-first-diiv-of-free-pALN {
+    width: auto;
+    /* margin-left: 15px; */
+    min-height: 22.5rem;
+    border-radius: 5px;
+    color: #1a1a1a;
+    margin-bottom: 2em;
+  }
+
+  .hfbdn-dedde-deldle-dejdj {
+    border-bottom: none;
+    padding-top: 20px;
+    line-height: 1.5;
+  }
+
+  .ul-list-of-pricing-content {
+    list-style: none;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .bordertop-btn-for-stre-plan {
+    border-top: 1px solid #d9d9d9;
+    display: flex;
+    justify-content: center;
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+  }
+
+  .paddingtworem {
+    padding: 2rem;
+    width: 100%;
+  }
+
+  .balance-text-frequentlyasked {
+    font-size: 26px;
+    line-height: 36px;
+    letter-spacing: -0.4px;
+    font-weight: 600;
+    text-align: center;
+    display: block;
+  }
+
+  .lsitofquestionasked-list {
+    border-bottom: 1px solid #d9d9d9;
+    margin-top: 1.25em;
+    color: #1a1a1a;
+  }
+
+  .question-in-the-list-li {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 1px solid #d9d9d9;
+    color: #464444;
+  }
+
+  .h6-gap-none {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .grid-flex-grid-valign-middle {
+    display: flex !important;
+    align-content: center !important;
+    align-items: center !important;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+
+  .tysh-sksjd-skdhdh {
+    display: flex;
+    justify-content: center;
+  }
+
+  .column-expand {
+    color: #312f2f;
+  }
+
+  .pricing-slider-for-pricingcards {
+    display: block;
+    grid-gap: 10px;
+    gap: 20px;
+    width: auto;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    justify-content: normal;
+  }
+
+  .balance-text-frequentlyasked-without-respo {
+    display: none;
+  }
+}
+
+@media (max-width: 425px) {
+  .pricing-slider-for-pricingcards {
+    display: block;
+    grid-gap: 10px;
+    gap: 30px;
+    width: auto;
+    padding-left: 1em;
+    overflow-x: scroll;
+    padding-right: 1em;
+    justify-content: normal;
+  }
+}

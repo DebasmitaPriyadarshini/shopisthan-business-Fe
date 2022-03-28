@@ -1,0 +1,154 @@
+.slider {
+  height: calc(100vh - 68px);
+  margin: auto;
+  position: relative;
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.slider-track {
+  display: flex;
+  width: calc(35em * 18);
+  -webkit-animation: scroll 40s linear infinite;
+}
+
+.slide {
+  height: calc(100vh - 62px);
+  width: 35em;
+  display: flex;
+  align-items: center;
+}
+
+.sliding-images-on-homepage-onluy {
+  width: 100%;
+  height: calc((100vh - 20px) * 0.95);
+}
+
+.slider::before,
+.slider::after {
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(rgba(255, 255, 255, 1) 100%)
+  );
+  content: "";
+  height: 100%;
+  position: absolute;
+  width: 15%;
+  z-index: 2;
+}
+
+.slider::before {
+  left: 0;
+  top: 0;
+}
+
+.slider::after {
+  right: 0;
+  transform: rotate(180deg);
+  top: 0;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-250px * 9));
+  }
+}
+/* 
+@-webkit-keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-50vh * 3));
+  }
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-50vh * 3));
+  }
+}
+
+@-webkit-keyframes rev-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(100vh * 3));
+  }
+}
+
+@keyframes rev-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(100vh * 3));
+  }
+}
+.sliderr {
+  background: white;
+  box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.125);
+  height: 100vh;
+
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding: 0 !important;
+}
+.sliderr::before,
+.sliderr::after {
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  content: "";
+  height: 25vh;
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+}
+.sliderr::after {
+
+  top: 0;
+  left: 0;
+  transform: rotateZ(180deg);
+}
+.sliderr::before {
+  left: 0;
+  bottom: 0;
+}
+.sliderr .slide-track {
+  -webkit-animation: scroll 40s linear infinite;
+  animation: scroll 5s linear infinite;
+  display: flex;
+  flex-direction: row;
+  height: calc(50vh * 6);
+}
+.sliderr .slide {
+  height: 50vh;
+  width: 30vw;
+}
+
+.sliderr .slide img {
+  height: 50vh;
+  width: 30vw;
+  object-fit: cover;
+}
+
+.sliderr .slide-track-rev {
+  -webkit-animation: rev-scroll 40s linear infinite;
+  animation: rev-scroll 5s linear infinite;
+  display: flex;
+  flex-direction: column;
+  height: calc(50vh * 6);
+} */

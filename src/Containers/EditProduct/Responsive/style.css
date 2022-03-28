@@ -1,0 +1,110 @@
+.discount-price-inresponsive-store-product-page {
+  font-size: 12px;
+  text-decoration: line-through;
+  color: gray;
+  padding-left: 5px;
+  overflow-y: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  white-space: nowrap;
+  width: 5em;
+}
+.product-edit-and-deleteoption {
+  padding-top: 5px;
+  justify-content: left;
+  /* display: none; */
+  display: flex;
+  /* justify-content: center; */
+  grid-gap: 10px;
+  gap: 10px;
+  /* padding: 0px 20px; */
+}
+
+.share-btn-in-product-in-store-vew {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+/* .main-siv-for-padding-in-fit-nav {
+  padding-right: 10px;
+  padding-top: 3em;
+  padding-left: 10px;
+  background: #f1f5f9;
+  padding-bottom: 8em;
+} */
+
+.share-btn-in-product-n-dashboard {
+  /* font-weight: 600; */
+  height: auto;
+  width: 19em;
+  background: #fff;
+  border-radius: 0.5em;
+  color: #4e4e4e;
+  font-size: 15px;
+  /* padding: 0.5em 0.5em; */
+  border: none;
+}
+
+.background-ehte {
+  background: #fff;
+  margin-bottom: 2em;
+  border-radius: 0.5em;
+}
+
+/* .add-product-btn-in-center-kjhg {
+  border-radius: 0.3rem;
+  text-align: center;
+  padding: 0.7rem;
+  position: relative;
+  width: 12em;
+  font-size: 18px;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+  color: #fff;
+  background-color: var(--main-button-color-for-all);
+  box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+} */
+
+.category-ojdheyrt {
+  font-size: 19px;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 3em;
+  background: gray;
+  height: 3em;
+  border-radius: 0.3em;
+}
+
+.add-product-indashboardrprice-disdoed {
+  font-size: 14px;
+  text-decoration: line-through;
+  margin-top: 4px;
+}
+
+.new-dprocedindaboadrdaddboarpd {
+  font-size: 16px;
+  font-weight: 400;
+  overflow-y: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.iidjoededproductsincatelog {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.new-search-for-every-navbar-in-stare-dashboard::placeholder {
+  color: #e4e4e4;
+}
+
+.flex-with-three-dots-on-it-onhj {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}

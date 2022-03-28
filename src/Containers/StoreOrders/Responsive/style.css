@@ -1,0 +1,543 @@
+.new-no-ejkdjbkfersdf {
+  width: 100%;
+  display: block;
+  padding-top: 3em;
+  padding-left: 33em;
+}
+
+.displafleincomplpendcompl {
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  top: 60px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  text-align: center;
+  padding: 0px 20px;
+  box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+}
+.new-confierm-noy-in-orderinonav,
+.new-pending-noy-in-orderinonav {
+  padding: 5px;
+  width: 6em;
+  color: #1a1a1a;
+  font-size: 14px;
+}
+
+.ordess-box-component-inrespo {
+  border-radius: 5px;
+  border: 1px solid var(--main-new-input-style-color-green);
+  margin-bottom: 1em;
+}
+
+.name-and-price-of-order-in-component {
+  padding: 20px;
+  border-bottom: 1px solid var(--main-new-input-style-color-green);
+}
+
+.address-and-order-id-hashtag {
+  display: flex;
+  justify-content: space-between;
+  color: #969696;
+  font-size: 14px;
+}
+
+.name-ndhcbu-price-xaoi {
+  padding-bottom: 5px;
+  display: flex;
+  font-size: 20px;
+  justify-content: space-between;
+}
+
+.product-details-at-order-page-cpmpo {
+  padding: 10px 0px;
+}
+
+.product-aname-and-quantiy-and-order-rta-status {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+  align-items: center;
+}
+
+.order-status-at-order-page-compo {
+  color: var(--main-button-color-for-all);
+  padding: 8px 15px;
+  font-size: 12px;
+  background: var(--main-new-input-style-color-green);
+  border-radius: 3px;
+}
+.product-name-of-order-done {
+  padding: 0px 20px;
+  color: #999999;
+}
+
+.date-off-order-and-vieworder-option {
+  display: flex;
+  padding: 5px 20px 20px 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time-anddate-of-order-form-cust {
+  color: #707070;
+  font-size: 14px;
+}
+
+.view-order-page-cni-go-option {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+}
+
+.quantity-plus-item-name {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.product-name-ove-rlobc-ndotdot {
+  overflow-y: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  white-space: nowrap;
+  width: 12em;
+}
+
+.product-name-ove-in-order-cus {
+  overflow-y: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  white-space: nowrap;
+  width: 9em;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  .oreder-responsive-paGe-first-duv {
+    overflow-y: scroll;
+    background: #fff;
+    padding: 7em 10px 4em;
+    margin-top: 60px;
+    height: 100vh;
+  }
+}
+
+/* --------- Order Details Page----------- */
+
+.ivboshdlsdjvklsv,
+.iwueoncebcw {
+  padding: 10px 23px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ivboshdlsdjvklsv {
+  margin-top: 4em;
+  text-align: left;
+  border-bottom: 0.5px solid var(--main-border);
+}
+
+.notinstockorder-popred {
+  border: 1px solid #0000004a;
+  background: #fff;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 19px;
+}
+
+.all-info-of-sstore-aNd-user {
+  border-top: 0.5px solid var(--main-border);
+  border-bottom: 0.5px solid var(--main-border);
+  padding: 20px 23px;
+}
+.for-order-recieved-dateandtime {
+  display: flex;
+  grid-gap: 5px;
+  gap: 5px;
+}
+
+.iodbvivsdsbs {
+  color: grey;
+}
+
+.iodbvivsdsbs,
+.paSDyua-jcaSa-scAC {
+  width: auto;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-size: 12px;
+}
+
+.aCaOCaCHkkcsaC,
+.aCaOCaCHsaC-aDddteraD {
+  letter-spacing: 0.2px;
+  color: #1a1a1a;
+  margin-top: 2px;
+}
+
+.aCaOCaCHkkcsaC {
+  width: auto;
+  line-height: 15px;
+  font-size: 16px;
+}
+.margin-bootom-jAnaI-px {
+  margin-top: 10px;
+}
+
+.order-info-tetebjs-ytgdr {
+  padding: 10px 20px;
+}
+
+.order-info-sdcdcsd {
+  padding: 10px 20px;
+  border-bottom: 0.5px solid var(--main-border);
+}
+
+.border-aNd-dislpay-aling {
+  border-top: 0.5px solid var(--main-border);
+  border-bottom: 0.5px solid var(--main-border);
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.marign-top-Andborder-req {
+  margin-top: 5px;
+}
+
+.displAy-flex-at-cuiasc {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 5px;
+  font-size: 13px;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  .confirmorderand-popconfirmgreen {
+    border: none;
+    background: green;
+    color: #fff;
+    padding: 8px 40px;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+
+  .notinstockorder-popred {
+    border: 1px solid #000;
+    background: #fff;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 19px;
+  }
+
+  .new-no-ejkdjbkfersdf {
+    width: 100%;
+    display: block;
+    padding: 0px 0em;
+  }
+}
+
+/* ---- New Order Stylee------ */
+
+.component-of-snlge-orders-in-sjdhrg {
+  background: #fff;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px 1px rgb(64 60 67 / 7%);
+}
+
+.border-for-dnelirjfe {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid rgb(217, 217, 217);
+  padding: 10px 0px;
+}
+
+.order-id-and-order-date-iall-order-component {
+  display: flex;
+  justify-content: left;
+  gap: 10px;
+  align-items: center;
+  padding-bottom: 5px;
+}
+
+.order-id-right-border-indlkd {
+  border-right: 2px solid grey;
+  font-size: 12px;
+  padding: 0px 8px 0px 0px;
+  color: grey;
+}
+
+.oder-o-date-and-timede {
+  font-size: 12px;
+  color: grey;
+}
+
+.all-order-bodbrjkd {
+  text-align: left;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.order-totak-value-in-bortttom {
+  display: flex;
+  justify-content: space-between;
+  border-top: 2px solid rgb(217, 217, 217);
+  padding-top: 10px;
+}
+
+.addressof-stroe-in-order-list-cd {
+  overflow: hidden;
+  overflow-y: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  white-space: nowrap;
+  width: 12em;
+}
+
+/* Details Page  */
+
+.oder-side-djjfurjf {
+  padding: 15px 20px 10px 20px;
+  margin-top: 3em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.oder-side-bansidbje {
+  padding: 0px 20px 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-raccepring-two-btns-ssdn {
+  padding: 10px 23px;
+  display: flex;
+  position: fixed;
+  justify-content: space-around;
+  width: 100%;
+  bottom: 20px;
+}
+
+.items-total-and-item-nanemd-name {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 10em;
+  white-space: nowrap;
+  color: rgb(70, 70, 70);
+}
+
+.name-and-price-and-quantity-in-one-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-ddeciption-in-product-order-details-djs {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 13em;
+  height: 4em;
+  font-size: 12px;
+  padding: 8px 0px;
+  color: grey;
+}
+
+.total-div-for-oder-details-andin-order {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.orders-page-order-img-jd {
+  height: 6rem;
+  width: 5rem;
+  border-radius: 1rem;
+  padding: 10px 10px 10px 0px;
+}
+
+.new-order-id-at-soreder-pagedsd {
+  font-size: 14px;
+  padding: 0px 8px 0px 0px;
+  color: grey;
+}
+
+.customer-namee-in-responsive {
+  color: grey;
+  font-size: 12px;
+  padding: 4px 0px;
+}
+
+.ckdpaspodls {
+  color: #000;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.view-order-option-in-responsive {
+  color: #000;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.user-customer-name-in-reder-ofhfh {
+  font-size: 14px;
+  padding: 0px 8px 0px 0px;
+  color: grey;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 12em;
+  white-space: nowrap;
+}
+
+.acbuiuiaoc {
+  padding: 15px 20px 10px 20px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.zjocaimsa {
+  font-size: 22px;
+  padding: 15px 20px 10px 20px;
+  margin-top: 3em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.delevry-from-new-oreder-adress {
+  padding: 0px 20px 10px 20px;
+  font-size: 12px;
+  margin-top: 0;
+}
+
+.new-shopname-at-order-page-new-ndc {
+  padding: 0px 20px;
+}
+
+.shopname-form-ordered-page {
+  padding: 5px 0px;
+  font-size: 12px;
+  color: #666666;
+  list-style: 1.4;
+}
+
+.dowload-summary-of-aorder-new-option {
+  color: var(--main-button-color-for-all);
+}
+
+.download-summary-nclsiah-ahoa {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0px 20px 0px 20px;
+  padding: 10px 0px 10px 0px;
+  border-bottom: 1px solid var(--main-new-input-style-color-green);
+}
+
+.your-porddr-ordr-details-starts {
+  border-bottom: 1px solid #e4e4e4;
+  margin: 10px 20px;
+  color: #666666;
+  padding: 10px 0px;
+  font-size: 20px;
+}
+
+.quantity-of-items-and-caj {
+  margin: 0px 20px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #e4e4e4;
+  padding: 0px 0px 10px 0px;
+}
+
+.cyioinca {
+  display: flex;
+  gap: 5px;
+}
+
+.new-option-of-prir-ith {
+  color: #666666;
+}
+
+.item-total-cabcia {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  color: #868686;
+}
+
+.deleviery-cahegrcnao {
+  display: flex;
+  color: #868686;
+  padding: 2px 20px 5px 20px;
+  justify-content: space-between;
+}
+
+.grand-total-at-order-page-bold {
+  padding: 5px 0px 5px 0px;
+  color: #666666;
+  justify-content: space-between;
+  display: flex;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 5px 20px;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.order-details-fios {
+  padding: 5px 0px;
+  font-size: 20px;
+  color: #666666;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.details-of-order-customer-delivery-add {
+  padding-top: 5px;
+  line-height: 1.5;
+}
+
+.header-of-order-cjoa {
+  color: #868686;
+}
+
+.user-name-in-store-order-details-gb {
+  overflow: hidden;
+  overflow-y: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  white-space: nowrap;
+  width: 8em;
+}
+
+.product-description-in-order-page-respo-injm {
+  overflow-y: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  white-space: nowrap;
+  width: 9em;
+}
+
+.reject-order-ntb-btn-dow-stick {
+  background: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  width: 9em;
+  border: 1px solid var(--main-button-color-for-all);
+  color: var(--main-button-color-for-all);
+}
+
+.aceept-order-ntb-btn-dow-stick {
+  background: var(--main-button-color-for-all);
+  border-radius: 5px;
+  padding: 10px;
+  width: 9em;
+  border: 1px solid var(--main-button-color-for-all);
+  color: #fff;
+}

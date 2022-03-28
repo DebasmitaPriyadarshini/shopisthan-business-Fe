@@ -1,0 +1,15 @@
+#show {
+  position: fixed;
+  top: 50vh;
+  left: 40vh;
+}
+
+#height {
+  position: fixed;
+  top: 5vh;
+  left: 5vh;
+}
+
+#container {
+  min-height: 200vh;
+}

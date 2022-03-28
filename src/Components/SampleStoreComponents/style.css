@@ -1,0 +1,27 @@
+.homepage-input-for-search-only-catehry {
+  appearance: none;
+  background: transparent;
+  border: none;
+  border: 0;
+  border-style: none;
+  color: #191919;
+  font-size: 0.9rem;
+  font-weight: 500;
+  height: 100%;
+  margin-top: -2px;
+  width: 100%;
+}
+
+.homepage-input-for-search-only-catehry {
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin-left: 0.6rem;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .floatting-category-option-svg {
+    width: 30px;
+    height: 30px;
+    fill: #000;
+  }
+}

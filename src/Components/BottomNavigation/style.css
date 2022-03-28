@@ -1,0 +1,169 @@
+.ul-for-dore-ul-lst-nav-li {
+  display: none;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .ul-for-dore-ul-lst-nav-li {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    /* grid-gap: 40px; */
+    padding: 0px 10px;
+    /* gap: 40px; */
+    justify-content: space-between;
+  }
+
+  .bottom-zero-for-navigation {
+    background: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-weight: 500;
+    padding: 0.5em;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-top: 0.5px solid rgb(215, 215, 224);
+    z-index: 5;
+  }
+
+  .bottom-nav-icon {
+    height: 16px;
+  }
+
+  .li-list-in-bottom-new-idyyn {
+    margin-top: 5px;
+  }
+}
+
+.new-svg-for-profile-botom-use {
+  fill: grey;
+  height: 15px;
+  width: 15px;
+}
+
+.new-followed-aStroe-scdncz-svg {
+  fill: gray;
+  height: 20;
+  width: 40px;
+}
+
+.bottom-navigation-tags {
+  margin-top: 4px;
+  color: grey;
+  font-size: 10px;
+  line-height: 0.6;
+}
+
+.ul-for-dore-ul-lst-nav-li a.active .new-followed-aStroe-scdncz-svg {
+  fill: #006affb2;
+  height: 20px;
+  width: 40px;
+}
+
+.ul-for-dore-ul-lst-nav-li a.active .new-svg-for-profile-botom-use {
+  fill: var(--main-button-color-for-all);
+  height: 15px;
+  width: 15px;
+}
+
+.ul-for-dore-ul-lst-nav-li a.active .bottom-navigation-tags {
+  margin-top: 4px;
+  color: var(--main-button-color-for-all);
+  font-size: 10px;
+  line-height: 0.6;
+}
+
+.ul-for-dore-ul-lst-nav-li a.active .backgound-for-active-whiye-dd {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 50%;
+  height: 30px;
+  margin-bottom: 4px;
+  width: 30px;
+  background: var(--main-new-input-style-color-green);
+}
+
+.backgound-for-active-whiye-dd {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  background: #fff;
+}
+
+/* ------------BottomNavigationProfile------------------- */
+
+.ul-for-profile-user-nav-in-store-view {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+  /* grid-gap: 40px; */
+  padding: 0px 10px;
+  /* gap: 40px; */
+  justify-content: space-around;
+}
+
+.new-svg-for-store-view-icon {
+  fill: #969696;
+  height: 30px;
+  width: 20px;
+}
+
+.bottom-navigation-for-user-profile-in-store-view {
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-weight: 500;
+  padding: 0.5em;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  /* border-top: 0.5px solid rgb(82, 82, 82); */
+  z-index: 1;
+  box-shadow: rgb(0 0 0 / 0%) 0px 54px 55px, rgb(0 0 0 / 5%) 0px -12px 30px,
+    rgb(0 0 0 / 0%) 0px 4px 6px, rgb(0 0 0 / 5%) 0px 0px 13px,
+    rgb(0 0 0 / 0%) 0px 0px;
+}
+
+.bottom-navigation-tag-for-prfoile-and-store-view {
+  margin-top: 4px;
+  color: #969696;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 0.6;
+}
+
+.ul-for-profile-user-nav-in-store-view a.active .new-svg-for-store-view-icon {
+  fill: var(--main-button-color-for-all);
+  height: 30px;
+  width: 20px;
+}
+
+.ul-for-profile-user-nav-in-store-view a.active .backgound-for-active-whiye-dd {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 50%;
+  height: 30px;
+  margin-bottom: 4px;
+  width: 30px;
+  background: var(--main-new-input-style-color-green);
+}
+
+.ul-for-profile-user-nav-in-store-view
+  a.active
+  .bottom-navigation-tag-for-prfoile-and-store-view {
+  margin-top: 4px;
+  color: var(--main-button-color-for-all);
+  font-size: 12px;
+  line-height: 0.6;
+}
+
+/* ------------BottomNavigationProfile------------------- */

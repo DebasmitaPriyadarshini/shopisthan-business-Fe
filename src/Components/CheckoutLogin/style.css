@@ -1,0 +1,65 @@
+.heigth-at-ocjcdpaerupiej {
+  height: 1px;
+  background-color: rgb(223, 223, 223);
+  border-radius: 2px;
+  width: 100%;
+  margin-top: 3px;
+}
+
+.country-code-in-dekajde-aed {
+  color: rgb(153, 153, 153);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  margin: 0px;
+  padding: 2px 0px;
+}
+
+.width-of-country-cde-ateje {
+  width: 40px;
+}
+
+.incuwc-ancuwjnc {
+  width: 41px;
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 13px;
+  color: grey;
+}
+
+.aling-temde-endsd {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  align-items: end;
+}
+.cionacdv {
+  cursor: pointer;
+}
+
+.get-startde-bottom-btn {
+  width: 100%;
+  background: #007f61;
+  border: none;
+  color: #fff;
+  padding: 12px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.svs-hiovsn-viose {
+  border: 1px solid var(--main-new-input-style-color-green);
+  display: inline-block;
+  height: 3.2em;
+  width: 100%;
+  margin: 0 0 15px;
+  padding: 1em 0.9375em;
+  color: #999999;
+  font-size: 1em;
+  /* box-shadow: 0 0 0 1px #6b7177; */
+  /* border: 1px solid transparent; */
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  transition: padding 150ms;
+}

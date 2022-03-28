@@ -1,0 +1,194 @@
+/* *{
+    font-family: 'Roboto', sans-serif;
+} */
+
+:root {
+  font-family: "Roboto", sans-serif;
+  --main-bg-color: #2b2fe7a3;
+  --main-fr-hv-color: #fff;
+  --main-border-btn-color: #2b2fe7a3;
+  --main-border-card-color: #e6e6e6e6;
+  --main-button-color-blue: #000;
+  --main-active-color: #006aff1a;
+  --main-border-color-for-input: #e6e6e6;
+  --main-input-font-color: gray;
+  --main-backgroundcolor: rgb(245, 245, 245);
+  --main-border: #e6e6e6;
+  --main-button-color-for-all: #007f61;
+  --main-new-input-style-color-green: #cee5d0;
+}
+
+ul li::marker {
+  display: none;
+}
+
+ul {
+  list-style-type: none;
+}
+.widget-area ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+body {
+  background: #eff1ff;
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+}
+.flexRow {
+  display: flex;
+}
+.sb {
+  justify-content: space-between;
+}
+
+* {
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  display: flow-root;
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  background: #eff1ff;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+input:focus {
+  border: none;
+}
+
+.svs-hiovsn-viose:focus {
+  border: 1px solid var(--main-new-input-style-color-green);
+}
+
+.checkout-page-input-in-sdks:focus {
+  border-bottom: 1px solid var(--main-border-color-for-input);
+}
+
+*:focus {
+  outline: none;
+}
+.App {
+  height: 100vh;
+  /* background: rgb(239, 241, 255); */
+  min-height: 100%;
+  max-height: 100%;
+  scroll-behavior: smooth;
+  font-family: "Roboto", sans-serif;
+}
+
+.fake-link,
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+abbr,
+a,
+p,
+address,
+article,
+aside,
+audio,
+b,
+blockquote,
+body,
+canvas,
+caption,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+p,
+pre,
+q,
+samp,
+section,
+small,
+span,
+strong,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+time,
+tr,
+ul,
+var,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  text-decoration: none;
+}

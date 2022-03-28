@@ -1,0 +1,6 @@
+.navbar-dashboard-only-anduser-view {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  padding: 15px;
+}

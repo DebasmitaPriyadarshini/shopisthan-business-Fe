@@ -1,0 +1,200 @@
+.Store-followers-list-in-responsive {
+  overflow-y: scroll;
+  padding-top: 5em;
+  background: #fff;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 100%;
+  padding-bottom: 0em;
+}
+
+.new-addproduct-input-div-mar {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  width: auto;
+  margin-bottom: 10px;
+}
+
+.background-grey-in-all-page-of-add-product {
+  height: 100%;
+  background: rgb(245, 245, 245);
+  margin-top: 45px;
+  overflow-y: scroll;
+}
+
+.Store-add-product-view-responsive {
+  background: #fff;
+  margin: 20px 15px;
+  border-radius: 5px;
+  /* height: 100%; */
+  margin-bottom: 1em;
+  padding: 5px 10px;
+}
+
+.navbar-for-only-add-product-sbc {
+  display: none;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .new-img-for-store-profile-upload-choose {
+    text-align: center;
+    border-radius: 0.3rem;
+    padding: 10px;
+    font-size: 12px;
+    /* text-align: center; */
+    width: 15em;
+    border: 1px solid #c7c7c7;
+    margin-bottom: 1rem;
+    cursor: pointer;
+  }
+
+  .navbar-for-only-add-product-sbc {
+    align-items: center;
+    background: #fff;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    align-items: center;
+    height: 60px;
+    position: fixed;
+    display: flex;
+    gap: 10px;
+    border-bottom: 8px solid #f5f5f5;
+    z-index: 50;
+    /* justify-content: s; */
+  }
+
+  .e-category-work-cbka {
+    font-size: 12px;
+    color: grey;
+    padding-top: 10px;
+  }
+  .new-addproduct-input-div-mar {
+    display: block;
+    justify-content: space-between;
+    margin-top: 0px;
+    width: auto;
+  }
+
+  .Add-product-in-resposnonsive-oci {
+    padding-top: 1em;
+    background: #fff;
+    width: 100%;
+    display: block;
+    padding-bottom: 0em;
+    overflow: hidden;
+    border-radius: 0.5em;
+    justify-content: left;
+    height: 100%;
+  }
+
+  .category-paragraph-inc-sadd-product {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+  }
+
+  .new-add-fle-in-img-onyly {
+    text-align: center;
+    padding: 10px;
+    font-size: 8px;
+    /* text-align: center; */
+    width: 15em;
+    border-top: 1px solid #c7c7c7;
+    cursor: pointer;
+  }
+  .icdsbnlcses {
+    margin-right: 10px;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+
+  .for-inner--scroll-not-allowed {
+    padding-bottom: 2em;
+    width: auto;
+    height: 32em;
+    overflow-y: unset;
+  }
+
+  .profile-input-div-inmy-profile {
+    width: auto;
+    /* padding-top: 4em; */
+  }
+  .main-siv-for-padding-in-fit-nav {
+    padding-right: 10px;
+    padding-top: 7em;
+    padding-left: 10px;
+    background: #fff;
+    padding-bottom: 7em;
+    /* height: calc((100vh - -65px) * 0.95); */
+  }
+  .save-btn-in-responsice-bt-m {
+    display: flex;
+    padding: 0px 20px 15px 20px;
+  }
+
+  .iACB-ddaSDpcaC {
+    border: transparent;
+    border-radius: 0.3em;
+    color: #006aff;
+    background: #006aff;
+    text-align: center;
+    padding-right: 0px;
+    /* padding-top: 8px; */
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 14px;
+    width: 120px;
+    height: 40px;
+    color: #fff;
+    transition: 0.8s;
+  }
+
+  .image-preview-in-add-product-new-t {
+    border-top: 1px solid var(--main-new-input-style-color-green);
+    border-left: 1px solid var(--main-new-input-style-color-green);
+    border-bottom: 1px solid var(--main-new-input-style-color-green);
+    border-radius: 0.3rem;
+    background: #f6f6f6;
+    margin-top: 1em;
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+    overflow-x: scroll;
+    flex-direction: row-reverse;
+  }
+
+  .voispomcs-pi {
+    padding: 0px 0px 15px 0px;
+  }
+}
+
+.add-product-nsjue {
+  background: var(--main-button-color-for-all);
+  color: #fff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  border: none;
+  width: 100%;
+}
+
+.delete-product-nsjue {
+  background: transparent;
+  color: var(--main-button-color-for-all);
+  padding: 15px 20px;
+  border-radius: 8px;
+  border: 1px solid var(--main-button-color-for-all);
+  width: 100%;
+}
+
+.edit-product-lajdne {
+  background: #000;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+  font-size: 14px;
+}

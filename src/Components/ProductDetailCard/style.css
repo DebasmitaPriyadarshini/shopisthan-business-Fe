@@ -1,0 +1,60 @@
+.search-svg-for-homepage-only {
+  fill: grey;
+  height: auto;
+  margin-top: -4px;
+  width: 1rem;
+}
+
+.search-svg-for-homepage-only {
+  width: 1rem;
+}
+
+.new-sesarch-compo-for-home-only-transparent {
+  background-color: transparent;
+  /* /* border: 1px solid #c7c7c7; // */
+  border-radius: 5px;
+  display: flex;
+  height: 32px;
+  width: auto;
+  z-index: 1;
+  transition: background-color 0.15s linear, border-color 0.15s linear;
+}
+
+.SearchTypeahead-searchIcon-1ld {
+  -webkit-box-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 36px;
+  z-index: 1;
+}
+
+.SearchTypeahead-searchIcon-1ld .SearchTypeahead-icon-20K {
+  fill: #959595;
+  height: 14px;
+  margin-left: 4px;
+  margin-top: -3px;
+  width: 14px;
+}
+
+.jcbsorcwsope {
+  border: 1px solid var(--main-border);
+  padding: 10px;
+  width: 7.5em;
+}
+
+.dis-akd-flex-in-this-product-details-page {
+  display: flex;
+
+  padding: 5px 0px;
+}
+
+.nocwipma {
+  color: #4b4b4b;
+}
+
+.name-of-product-aicbos-dash {
+  padding: 10px 20px;
+}

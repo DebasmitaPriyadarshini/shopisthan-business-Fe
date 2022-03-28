@@ -1,0 +1,38 @@
+.bottom-zero-for-ullist {
+  justify-content: center;
+  display: flex;
+  /* padding-bottom: 3em; */
+  position: fixed;
+  width: 63%;
+  bottom: 0;
+}
+
+.ul-list-of-footer {
+  font-weight: 600;
+  width: 100%;
+  /* position: fixed; */
+  font-size: 11px;
+  color: rgb(0, 0, 0);
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hamburger-list-active-and-inactive a {
+  color: #000;
+}
+
+.hamburger-list-active-and-inactive a,
+.hamburger-list-active-and-inactive a.active {
+  display: block;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.bottom-underline-prifle-div-sidebar,
+.hamburger-list-active-and-inactive {
+  border-bottom: 1px solid #000;
+}

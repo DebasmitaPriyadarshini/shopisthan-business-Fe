@@ -1,0 +1,249 @@
+.cartModOptionWrap {
+  display: flex;
+
+  justify-content: center;
+}
+
+.cartModOptionWrap .cartModOptionInner:last-child {
+  margin-right: 0;
+}
+.cartModOptionWrap .cartModOptionInner {
+  cursor: pointer;
+  padding-bottom: 11px;
+  margin-right: 16px;
+  font-size: 12px;
+}
+
+.cartModOptionWrap .cartModOptions {
+  padding: 8px 11px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+}
+
+.cartModOptionWrap .cartModOptionInner .icon_down {
+  vertical-align: middle;
+  font-size: 8px;
+  padding-left: 5px;
+  text-decoration: none !important;
+}
+
+.disolays-odkdk-flex-for-cart-items-and-proice-details {
+  display: flex;
+}
+
+.dispsdop-cm-ckawdjd {
+  display: flex;
+  justify-content: space-around;
+  gap: 0px;
+}
+.disde-dl-ed-jkew-corinks {
+  display: flex;
+  width: 80em;
+  justify-content: center;
+  gap: 10px;
+}
+
+.card-jekdnml-cwoerrwwk {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  /* box-shadow: rgb(0 0 0 / 10%) 0px 3px 10px 0px; */
+  flex-shrink: 0;
+  position: relative;
+  width: 40em;
+  transition: height 0.4s ease;
+  contain: layout;
+  height: 100%;
+  margin-left: 1em;
+}
+
+.ne-line-between-lnce-kjne {
+  height: 100%;
+  background-color: rgb(96, 96, 96);
+  border-radius: 2px;
+  width: 1px;
+}
+
+.piffcjr-nvr-price-details-page-at-noce-xa {
+  color: rgb(51, 51, 51);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+}
+.pric-detailed-inc-cmklesmfe {
+  color: rgb(102, 102, 102);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+.new-pde-nxedd-rowncs {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background-color: inherit;
+  border-radius: 8px;
+  padding-top: 22px;
+}
+
+.width-of-total-price-deatils-in-ione-box {
+  height: 16.5em;
+  padding: 20px;
+  width: 22em;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.order-total-celoefnsl {
+  color: rgb(51, 51, 51);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+}
+
+.order-total-inde-nelblse {
+  border-top: 1px solid rgb(102 102 102 / 31%);
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background-color: inherit;
+  margin-top: 15px;
+  padding-top: 15px;
+}
+
+.checlout-padding-iinf-debll {
+  padding: 15px 0px;
+}
+
+.image-cart-ckeuwo {
+  height: 15em;
+}
+
+.diffrent-navbar-for-another-nav-incart {
+  display: none;
+}
+
+.non-acijnam-oiw {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5px;
+}
+.none-acjks {
+  height: 15px;
+  width: 14px;
+  border: 1px solid grey;
+  border-radius: 50%;
+}
+
+.cart-empty-inmage-in-responsive {
+  height: 10em;
+  width: 100%;
+  padding: 10px;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .disolays-odkdk-flex-for-cart-items-and-proice-details {
+    display: block;
+  }
+
+  .diffrent-navbar-for-another-nav-incart {
+    display: block;
+    position: fixed;
+    top: 0;
+    /* padding: 10px 20px; */
+    width: 100%;
+    background: #fff;
+  }
+
+  .ne-sunnavbar-for-new-status-of-ordr {
+    display: flex;
+    justify-content: center;
+    padding: 15px 20px;
+    border-bottom: 10px solid #f5f5f5;
+    border-top: 1px solid #f5f5f5;
+  }
+
+  .flex-direction-for-status {
+    display: flex;
+    gap: 5px;
+  }
+
+  .bag-address-and-palce-order {
+    display: block;
+    text-align: center;
+  }
+
+  .option-for-nxksnfl {
+    color: var(--main-button-color-for-all);
+    font-size: 10px;
+    padding-top: 5px;
+  }
+
+  .border-of-height-for-space {
+    height: 3px;
+    width: 6em;
+    margin-top: 6px;
+    border-radius: 5px;
+    background: var(--main-button-color-for-all);
+  }
+
+  .non-activeborder-of-height-for-space {
+    height: 2px;
+    width: 6em;
+    margin-top: 6px;
+    border-radius: 5px;
+    background: #b9b9b9;
+  }
+
+  .non-activeoption-for-nxksnfl {
+    color: #b9b9b9;
+    font-size: 10px;
+  }
+
+  .cibwneioak[type="radio"]:checked {
+    background-color: #93e026;
+  }
+
+  .your-cart-option-in-one-ac {
+    padding: 19px 0px 23px 0px;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+  }
+
+  .item-total-cabcia-inorder-xabjzk {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+    color: #868686;
+  }
+
+  .deleviery-cahegrcnao-new-delevidcn {
+    display: flex;
+    color: #868686;
+    padding: 2px 0px 5px 00px;
+    justify-content: space-between;
+  }
+
+  .grand-total-xwexw {
+    padding: 5px 0px 5px 0px;
+    color: #666666;
+    justify-content: space-between;
+    display: flex;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 5px 0px;
+    border-top: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+  }
+}

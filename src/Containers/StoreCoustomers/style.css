@@ -1,0 +1,106 @@
+.new-table-for-store-vendor-customers-only-vndor-side {
+  width: 32rem;
+}
+
+.oknbhgrtyfc-oenc-customer-serv {
+  font-weight: 600;
+  padding: 10px 15px 10px 15px;
+  border-bottom: 1px solid var(--main-button-color-blue);
+  font-size: 1rem;
+  text-align: left;
+  background: var(--main-button-color-blue);
+  border-radius: 0.5rem;
+  color: #fff;
+}
+
+.onbh-oenc-customer-serv {
+  font-weight: 600;
+  padding: 10px 0px 10px 15px;
+  border-bottom: 1px solid var(--main-border-card-color);
+  font-size: 1rem;
+  text-align: left;
+  background: #fff;
+  border-radius: 0.5rem;
+  color: #000;
+}
+
+.mnbnmnb-udndv-oshrhdueh {
+  cursor: pointer;
+}
+
+.mnbnmnb-udndv-oshrhdueh:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.eudn-fkn-kjeof-wd {
+  cursor: pointer;
+}
+.eudn-fkn-kjeof-wd:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.nofollowers-at-new-fkfrfdf {
+  padding: 3em 0em;
+  text-align: center;
+  font-size: 15px;
+  width: 115%;
+}
+
+.follower-name-or-customer-name-in-ajska {
+  color: #383838;
+  padding: 18px 40px;
+  border-bottom: 1px solid var(--main-border);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  height: 4em;
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 256px;
+  white-space: nowrap;
+}
+
+.followers-orrder-in-dfuifnjdfn {
+  color: #383838;
+  padding: 18px 40px;
+  border-bottom: 1px solid var(--main-border);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  height: 4em;
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 256px;
+  white-space: nowrap;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  .new-table-for-store-vendor-customers-only-vndor-side {
+    width: auto;
+  }
+
+  .deorederd {
+    width: 100%;
+
+    width: auto;
+    align-items: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: grid;
+  }
+
+  .asodrheudnvfv {
+    font-weight: 600;
+    padding: 10px 0px 10px 0px;
+    border-bottom: 1px solid var(--main-border-card-color);
+    font-size: 1rem;
+    text-align: center;
+    background: #006aff;
+    border-radius: 0.5rem;
+    color: #fff;
+  }
+}

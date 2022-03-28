@@ -1,0 +1,128 @@
+.customerstroes-followedsnew {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  padding-top: 0;
+  padding-left: 8px;
+  padding-right: 10px;
+  grid-gap: 8px;
+  gap: 8px;
+}
+
+.order-store-m-user-view-details-div {
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 14px;
+  padding-right: 10px;
+}
+
+.dejifbeffdfeeeww {
+  color: #fffacd;
+  justify-content: center;
+  display: flex;
+  width: 2em;
+  border-radius: 3px;
+  background: grey;
+  padding: 8px;
+}
+.hdre-product-proic-total {
+  display: flex;
+  grid-gap: 5px;
+  gap: 5px;
+  align-items: center;
+}
+
+.howmanyordersofsusercount {
+  width: auto;
+  letter-spacing: 0.2px;
+  color: grey;
+  font-size: 12px;
+}
+
+.btn-fr-more-details-etc-orders-page {
+  border-radius: 3px;
+  color: rgba(0, 106, 255, 0.7803921568627451);
+  border: 1px solid rgba(0, 106, 255, 0.6509803921568628);
+  font-size: 12px;
+  padding: 4px 10px;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  .component-of-sing-order-box {
+    border: 1px solid var(--main-border);
+    background: #fff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+}
+
+/* ------------ New Css For Followers ------------// */
+
+.subnav-bar-for-all-followers-and-total {
+  align-items: center;
+  display: flex;
+  margin-top: 0em;
+  /* justify-content: space-around; */
+  padding: 0px 20px;
+}
+
+.Store-customers-list-in-scroll-view-inresponsve {
+  overflow-y: scroll;
+  padding-top: 1em;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* height: 100vh; */
+  padding-bottom: 4em;
+  background: #fff;
+}
+
+.component-of-single-customers-in-hdge {
+  border-bottom: 1px solid var(--main-border);
+  background: transparent;
+  border-top: 1px solid var(--main-border);
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 5px;
+}
+
+.customer-first-letter-of-name-indjd {
+  font-size: 16px;
+  align-items: center;
+  color: #707070;
+  justify-content: center;
+  display: flex;
+  width: 3em;
+  border-radius: 50%;
+  height: 3em;
+  background: var(--main-new-input-style-color-green);
+  padding: 8px;
+}
+
+.followers-users-name-in-followers {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: rgb(0, 0, 0);
+  width: 200px;
+  white-space: nowrap;
+}
+
+.followers-total-orders-in-view-ndnnn {
+  width: 200px;
+  white-space: nowrap;
+  letter-spacing: 0.2px;
+  color: grey;
+  font-size: 12px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  padding-top: 8px;
+}
+
+.new-customers-online-cbajk {
+  margin-top: 4em;
+  padding: 0px 20px;
+}
+
+.new-online-store-customrbb {
+  padding: 10px 0px;
+}

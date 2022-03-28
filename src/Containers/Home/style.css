@@ -1,0 +1,14 @@
+.home-page-for-web-view-only--asd {
+  display: block;
+}
+.home-page-for-mobile-view-only--asd {
+  display: none;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  .home-page-for-mobile-view-only--asd {
+    display: block;
+  }
+  .home-page-for-web-view-only--asd {
+    display: none;
+  }
+}

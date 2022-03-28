@@ -1,0 +1,168 @@
+.modal-for-hamburger {
+  position: fixed;
+  top: 0rem;
+  left: 0rem;
+  right: 0px;
+  bottom: 0;
+  background: #000;
+  background-color: #0000001a;
+  z-index: 101;
+  /* display: flex; */
+  justify-content: end;
+  align-items: center;
+  box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+  transform: translateX(0);
+  transition: transform 0.5s ease, opacity ease 0.2s;
+}
+
+.popup-for-hamburger-only {
+  height: 44rem;
+  z-index: 102;
+  display: flex;
+  justify-content: flex-end;
+  transform: translateX(0);
+  transition: transform 0.5s ease, opacity ease 0.2s;
+}
+
+.popup-for-hamburger-only-profile-one {
+  height: 44rem;
+  z-index: 102;
+  display: flex;
+  justify-content: flex-start;
+  transform: translateX(0);
+  transition: transform 0.5s ease, opacity ease 0.2s;
+}
+
+.side-bar-for-user-side-bar {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #ffe8ada1;
+}
+
+.side-bar-for-user-side-bar-profile-one {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #fff;
+}
+
+.side-bar-for-user {
+  color: #000;
+  text-decoration: none;
+  width: 90%;
+  text-align: end;
+  height: 100vh;
+  padding: 0.5rem 1.5em;
+  line-height: 28px;
+  background-color: #fff;
+  position: fixed;
+}
+
+.close {
+  text-align: end;
+  font-size: 1.5rem;
+  text-align: end;
+  cursor: pointer;
+}
+
+.close-icon {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.side-bar-for-user-username {
+  font-size: 24px;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.side-bar-for-user-list {
+  margin-top: 40px;
+  list-style: none;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.side-bar-for-user-list-content:hover {
+  background: #6267d5;
+}
+
+.side-bar-for-user-list-content {
+  margin-bottom: 1em;
+  font-size: 18px;
+  color: #fff;
+}
+
+.sell-onilne-jdgf-sle-ih {
+  height: 45px;
+  width: 150px;
+  text-align: center;
+  align-items: center;
+  background: #000;
+  color: white;
+  border: none;
+  border-radius: 0.3rem;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+.tshask {
+  height: 1px;
+  background: var(--main-border);
+  width: 100%;
+}
+
+.side-bar-for-user-content {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.name-logo-of-shopisthan-and-close-btn-a-che {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0px;
+  border-bottom: 1px solid var(--main-border);
+}
+
+.pointer-and-down-aarowjcba {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0px;
+}
+
+@media (min-width: 1024px) and (max-width: 1440px) {
+  .close {
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .close {
+    font-size: 1rem;
+  }
+
+  .side-bar-for-social-share {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 100px) and (max-width: 319px) {
+  .close {
+    font-size: 1rem;
+  }
+
+  .side-bar-for-social-share {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
+  }
+}

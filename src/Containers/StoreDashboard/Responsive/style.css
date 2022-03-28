@@ -1,0 +1,338 @@
+.PrimaryNav-adobeCreativeCloudLink-8C1,
+.PrimaryNav-coreNavigationLink-2uv {
+  color: inherit;
+}
+
+.PrimaryNav-coreNavigationLabel-3rj {
+  font-size: 22px;
+  font-weight: 100;
+  margin: 0;
+  position: relative;
+  color: #696969;
+}
+
+.feuopoesjcs {
+  background: #fff;
+  padding: 0px 10px 15px 10px;
+  border-radius: 5px;
+  margin-bottom: 1em;
+  color: #000;
+  font-size: 20px;
+}
+.ghjmkiuh {
+  padding: 15px 0px 5px 0px;
+  font-size: 20px;
+}
+
+.vsubvosjnssf {
+  border-radius: 0.3rem;
+  text-align: center;
+  padding: 0.8rem;
+  border: none;
+  font-weight: 600;
+  width: 100%;
+  align-items: center;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+  color: #fff;
+  background-color: var(--main-button-color-for-all);
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .dasboardveryfristrespocompo {
+    overflow-y: scroll;
+    padding-top: 4em;
+    background: #f7f7f7;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 100vh;
+    padding-bottom: 2em;
+  }
+
+  .new-no-ejkdjbkfersdf {
+    width: 100%;
+    display: block;
+    padding: 0px 0em;
+  }
+
+  .logout-btn-at-store-dashboard-in-navbar-new-dcnd-dmgh-dmutnfksnf {
+    height: 40px;
+    border-radius: 0.3rem;
+    text-align: center;
+    padding: 0.7rem;
+    width: 5em;
+    font-size: 11px;
+    border: none;
+    color: #fff;
+    background-color: var(--main-button-color-for-all);
+  }
+
+  .new-share-btn-in-store-dash-responsice {
+    font-size: 14px;
+    border-radius: 5px;
+    width: 12rem;
+    color: #fff;
+    background: grey;
+    border: none;
+    padding: 10px 10px;
+  }
+
+  .dashboard-respo-in-first-div-main {
+    display: flex;
+    justify-content: center;
+  }
+
+  .main-two-div-inrespo-fix-withd {
+    width: 17.5em;
+  }
+
+  .forcardindashbuidge {
+    color: grey;
+    font-size: 12px;
+    padding-right: 8px;
+  }
+
+  .banner-ingindashborad-in-respo-oidfsd {
+    width: 21em;
+  }
+  .main-two-div-inrespo-fix-withd {
+    width: 21.5em;
+  }
+
+  .respobell-icon {
+    height: 19px;
+  }
+
+  .new-share-store-inresponsiveview-card {
+    background: #fff;
+    padding: 20px 10px;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    color: grey;
+    border: 1px solid var(--main-border);
+  }
+
+  .displayflecinstoreshare-crdindashboard {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+  }
+
+  .mainheader-forsharestoreinstoredash {
+    padding-bottom: 5px;
+    color: #fff;
+  }
+
+  .order-inondsah {
+    padding-top: 1.5em;
+  }
+
+  /* ------- */
+
+  .neworder-indashbordadlist {
+    border: 1px solid #bdbdbd;
+    border-radius: 3px;
+    margin-top: 15px;
+    line-height: 1.5;
+    padding: 10px;
+  }
+
+  .fontsizeandfontwehgntr {
+    font-size: 12px;
+  }
+
+  .cdcnoeflop {
+    padding-top: 10px;
+  }
+
+  .newcustomernaemeo {
+    display: flex;
+    gap: 5px;
+    font-size: 14px;
+  }
+
+  .store-first-letter-name-dashboard {
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 320px) {
+  .banner-ingindashborad-in-respo-oidfsd {
+    width: 17.5em;
+  }
+}
+
+/* @media (min-width: 375px) and (max-width: 420px) {
+      .banner-ingindashborad-in-respo-oidfsd{
+        width: 24em;
+      }
+    } */
+
+/* //////--------- Order-Component-----------///////// */
+
+.dejifbeffdfeeeww {
+  color: #fffacd;
+  justify-content: center;
+  display: flex;
+  width: 2em;
+  border-radius: 3px;
+  background: grey;
+  padding: 8px;
+}
+
+.nameanddateofaorderinorderspaege {
+  display: flex;
+  justify-content: space-between;
+  grid-gap: 40px;
+  gap: 40px;
+}
+
+.iodbvivsdsbs,
+.paSDyua-jcaSa-scAC {
+  width: auto;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-size: 16px;
+}
+
+.paSDyua-jcaSa-scAC {
+  color: #1a1a1a;
+}
+
+.order-store-m-user-view-details-div {
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 14px;
+  padding-right: 10px;
+}
+.respod-didi-titlte-dity {
+  width: auto;
+  letter-spacing: 0.2px;
+  color: #1a1a1a;
+  line-height: 20px;
+  font-size: 12px;
+}
+
+.hdre-product-proic-total {
+  display: flex;
+  grid-gap: 5px;
+  gap: 5px;
+  align-items: center;
+}
+
+.btn-fr-more-details-etc-orders-page {
+  border-radius: 3px;
+  color: rgba(0, 106, 255, 0.7803921568627451);
+  border: 1px solid rgba(0, 106, 255, 0.6509803921568628);
+  font-size: 12px;
+  padding: 4px 10px;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  .order-id-division-inrespo {
+    border-bottom: 1px solid var(--main-border);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .order-page-user-div-1-heading {
+    display: flex;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    align-items: center;
+    font-size: 14px;
+    grid-gap: 8px;
+    gap: 8px;
+  }
+}
+
+/* /////////////------New DAshboard Responsivve Style--------//////// */
+
+.profile-div-of-dashboard-imgide {
+  border-radius: 50%;
+  height: 2.5em;
+  width: 2.5em;
+}
+
+.profile-plus-store-name-in-nav {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.div-for-bell-icon-on-dashboard {
+  padding: 10px 0px;
+  justify-content: center;
+  width: 100%;
+  display: flex;
+  background: var(--main-new-input-style-color-green);
+  margin: 10px 10px 7px;
+  border-radius: 5px;
+  align-items: center;
+}
+
+.banner-for-store-dashboard-in-small {
+  width: 100%;
+  border-radius: 8px;
+  background: #00b4512d;
+  height: 6em;
+  margin-bottom: 1em;
+}
+
+.progress-bar-for-store-completion-steps {
+  width: 100%;
+  color: #000;
+}
+
+.percentage-bar-with-status-of-store-nik {
+  color: var(--main-button-color-for-all);
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: 600;
+  margin: 5px 0px 5px 0px;
+}
+
+.readdy-stateus-word-in-sdash {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--main-button-color-for-all);
+}
+
+.status-bar-and-percentage-bar-in-one-frame {
+  margin: 0px 0px 10px 0px;
+}
+
+.main-dashboard-navbar-only {
+  align-items: center;
+  background: #fff;
+  left: 0;
+  top: 0;
+  justify-content: space-between;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  align-items: center;
+  height: 60px;
+  position: fixed;
+  display: flex;
+  grid-gap: 10px;
+  gap: 10px;
+  border-bottom: 8px solid #f5f5f5;
+  z-index: 50;
+}

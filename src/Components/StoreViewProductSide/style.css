@@ -1,0 +1,138 @@
+.homepage-input-for-search-only-catehry {
+  appearance: none;
+  background: transparent;
+  border: none;
+  border: 0;
+  border-style: none;
+  color: #191919;
+  font-size: 0.9rem;
+  font-weight: 500;
+  height: 100%;
+  margin-top: -2px;
+  width: 100%;
+}
+
+.homepage-input-for-search-only-catehry {
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin-left: 0.6rem;
+}
+.floating-cart-inresponsive-view-instore-view {
+  display: none;
+}
+
+.no-product-image-in-stroe-view-in-user-side {
+  height: 10em;
+}
+
+.active-acategory-green {
+  padding: 8px 0px;
+  border-bottom: 2px solid var(--main-button-color-for-all);
+  color: var(--main-button-color-for-all);
+  font-weight: 600;
+  font-size: 14px;
+  white-space: nowrap;
+  /* width: 100%;
+  overflow: hidden;
+   white-space: nowrap;
+  text-overflow: ellipsis; */
+}
+
+.non-active-acategory-green {
+  padding: 8px 0px;
+  border-bottom: 2px solid transparent;
+  color: #707070;
+  font-weight: 100;
+  white-space: nowrap;
+  font-size: 14px;
+}
+
+.cart-btn-in-store-view-injs {
+  position: fixed;
+  right: 10px;
+  bottom: 70px;
+  background: var(--main-button-color-for-all);
+  color: #fff;
+  /* width: 100%; */
+  padding: 6px 20px;
+  border-radius: 5px;
+  left: 10px;
+}
+
+.floating-bhucowmke-spes {
+  position: fixed;
+  right: 12px;
+  bottom: 130px;
+  background: var(--main-button-color-for-all);
+  color: #fff;
+  padding: 6px 40px;
+  border-radius: 15px;
+}
+
+.new-cart-checkout-btn-after-item-added-in-aaart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.scrolling-category-at-y-axis-nstore-view {
+  width: 18.3em;
+  display: none;
+}
+
+.decrement-btn-in-minus-inadd-to-cart {
+  font-size: 32px;
+  font-weight: 500;
+  padding-bottom: 2px;
+  padding: 0px 10px 2px 10px;
+}
+
+.qauntity-increase-inadd-to-cart-btn {
+  font-size: 20px;
+  padding: 0px 10px;
+}
+
+@media (min-width: 120px) and (max-width: 320px) {
+  .scrolling-category-at-y-axis-nstore-view {
+    width: calc(100vw - 7px);
+    display: flex;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .scrolling-category-at-y-axis-nstore-view {
+    background: #f5f5f5;
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+    width: calc(100vw - 7px);
+    padding: 0px 10px 0px 15px;
+    gap: 15px;
+  }
+  .floating-cart-inresponsive-view-instore-view {
+    bottom: 70px;
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    position: fixed;
+    z-index: 101;
+  }
+
+  .no-product-image-in-stroe-view-in-user-side {
+    height: 10em;
+  }
+
+  .floating-icon-of-category-in-resonsview {
+    position: fixed;
+    right: 12px;
+    bottom: 70px;
+    background: var(--main-button-color-for-all);
+    color: #fff;
+    padding: 6px 40px;
+    border-radius: 15px;
+  }
+  .floatting-category-option-svg {
+    width: 30px;
+    height: 30px;
+    fill: #000;
+  }
+}

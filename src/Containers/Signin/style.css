@@ -1,0 +1,673 @@
+.CardLayout {
+  background: #fff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 35px 50px 35px 50px;
+  position: relative;
+  width: 25rem;
+  box-shadow: 0 4px 20px 0 hsl(0deg 0% 60% / 20%);
+}
+
+i {
+  position: absolute;
+  top: 48%;
+  right: 6%;
+}
+i:hover {
+  color: #006aff;
+  cursor: pointer;
+}
+
+.error-mafg-in-validdatiom-in-inout-area {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+  letter-spacing: 1.2;
+  letter-spacing: 0.4px;
+  padding-left: 3px;
+}
+
+.lodaing-button-signin {
+  border-radius: 0.3rem;
+  text-align: center;
+  padding: 0.7em 1rem;
+  font-weight: 600;
+  position: relative;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+  width: 19em;
+  color: #fff;
+  background-color: var(--color-theme, #006aff);
+  border: none;
+}
+
+.spectrum--lightest .spectrum-Heading1 {
+  color: #323232;
+}
+.CardLayout__header h1 {
+  margin: 0;
+}
+
+.EmailPage__instructions {
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  margin: 30px 0 20px;
+}
+
+.spectrum--lightest .spectrum-Link {
+  color: #1473e6;
+}
+.spectrum-Link {
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-text-decoration-skip: objects;
+  text-decoration: none;
+  -webkit-transition: color 0.13s ease-in-out;
+  -o-transition: color 0.13s ease-in-out;
+  transition: color 0.13s ease-in-out;
+  outline: 0;
+  color: #1473e6;
+  padding-left: 5px;
+}
+
+.EmailPage .CardLayout__content {
+  margin-top: 32px;
+}
+
+form {
+  display: block;
+  margin-top: 0em;
+}
+
+.form-group:first-child {
+  margin-top: 0;
+}
+.EmailPage__email-field.form-group {
+  margin: 0px 0px 5px;
+}
+.form-group {
+  margin: 15px 0;
+  min-height: 69px;
+  position: relative;
+}
+
+.form-group .spectrum-FieldLabel {
+  padding-bottom: 5px;
+  padding-top: 15px;
+}
+.spectrum--lightest .spectrum-FieldLabel {
+  color: #747474;
+}
+.spectrum-FieldLabel {
+  display: block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 4px 0 5px 10px;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+label {
+  cursor: default;
+}
+
+.form-group .spectrum-Textfield:focus {
+  height: 3rem;
+  width: 16rem;
+  font-size: 12px;
+  padding: 1px 0px 0px 10px;
+  border: 1px solid #6263d5;
+}
+
+.form-group .spectrum-Textfield {
+  height: 3rem;
+  width: 16rem;
+  font-size: 14px;
+  padding: 1px 0px 0px 10px;
+  border: 1px solid #6263d5;
+}
+
+.spectrum .spectrum-Textfield {
+  font-size: 16px;
+  line-height: 1.15;
+}
+.spectrum .spectrum-Textfield {
+  width: 100%;
+}
+.spectrum--lightest .spectrum-Textfield--quiet {
+  background-color: rgba(0, 0, 0, 0);
+  border-color: #eaeaea;
+}
+.spectrum--lightest .spectrum-Textfield {
+  background-color: #fff;
+  border-color: #eaeaea;
+  color: #505050;
+}
+
+.spectrum-Textfield--quiet {
+  border-radius: 0;
+  border-width: 0 0 1px;
+  padding-left: 0;
+  padding-right: 0;
+  resize: none;
+  overflow-y: hidden;
+}
+.spectrum-Textfield {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 3px 12px 5px;
+  text-indent: 0;
+  min-width: 48px;
+  height: 32px;
+  width: 192px;
+  vertical-align: top;
+  margin: 0;
+  overflow: visible;
+  font-size: 14px;
+  line-height: 1.5;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  outline: 0;
+  -webkit-appearance: none;
+  -moz-appearance: textfield;
+}
+
+.EmailPage__submit {
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -moz-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.ta-left {
+  text-align: left;
+}
+
+.ta-right {
+  padding-left: 175px;
+}
+
+.spectrum-Button:last-child {
+  margin-right: 0;
+  background-color: #1473e6;
+  border-color: #1473e6;
+  color: #fff;
+  border-radius: 35px;
+  height: 45px;
+  width: 100px;
+  justify-content: center;
+}
+.spectrum--lightest .spectrum-Button--cta {
+  background-color: #1473e6;
+  border-color: #1473e6;
+  color: #fff;
+}
+
+.SpinnerButton {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -moz-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.SpinnerButton--right .spectrum-Button-label {
+  -webkit-box-ordinal-group: 2;
+  -webkit-order: 1;
+  -moz-box-ordinal-group: 2;
+  -ms-flex-order: 1;
+  order: 1;
+}
+.SpinnerButton .spectrum-Button-label {
+  width: auto;
+}
+.spectrum-Button-label {
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  -webkit-align-self: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+  text-align: center;
+  width: 100%;
+}
+
+.Continue-to-Shopisthan {
+  color: #505050;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-top: 10px;
+}
+
+.new-sigin-new-div-tandc {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 13px;
+  color: #4d4d4d;
+  font-weight: 500;
+}
+
+.sigin-tandp-starts {
+  padding: 5px;
+  color: #6263d5;
+  cursor: pointer;
+}
+
+.sigin-tandp-starts:hover {
+  padding: 5px;
+  color: #6263d5;
+  text-decoration: underline;
+}
+
+.new-sigin-p-a-p {
+  margin-top: 1.25em;
+}
+
+.Privacy-Terms-sigin {
+  grid-gap: 4px;
+  gap: 4px;
+  font-size: 11px;
+  color: #4d4d4d;
+  justify-content: left;
+  font-weight: 500;
+  display: flex;
+  margin-top: 0.5rem;
+  align-items: center;
+}
+
+.cbaibasaksn {
+  margin-left: 40px;
+}
+
+.new-sign-in-btn-for-repo {
+  background-color: rgb(255, 255, 255);
+  display: inline-flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.54);
+  box-shadow: rgb(0 0 0 / 24%) 0px 2px 2px 0px, rgb(0 0 0 / 24%) 0px 0px 1px 0px;
+  padding: 0px;
+  border-radius: 2px;
+  border: 1px solid transparent;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+/* ///// Login New Ui //// */
+
+.ab {
+  text-align: center;
+  font-size: 28px;
+  color: #fff;
+}
+
+.xyxbsjxn {
+  display: flex;
+  justify-content: center;
+  /* margin-top: 2rem; */
+  /* height: 100vh; */
+  align-items: center;
+}
+
+.Login-dad-log-inadf {
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.cionacdv {
+  cursor: pointer;
+}
+
+.forgot-password {
+  color: cornflowerblue;
+  margin-top: 1rem;
+  font-size: 13px;
+  text-align: end;
+  cursor: pointer;
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}
+
+.get-started-aur-signiup {
+  display: flex;
+  margin-top: 1rem;
+  grid-gap: 10px;
+  gap: 10px;
+  font-size: 18px;
+  line-height: 26px;
+  justify-content: center;
+  color: #000;
+  padding-bottom: 2em;
+}
+
+.ciac-hj-spdjd-didj {
+  cursor: pointer;
+  color: var(--main-button-color-blue);
+  font-weight: 500;
+}
+
+.ciac-hj-spdjd-didj:hover {
+  text-decoration: underline;
+}
+
+.icdsbnlcses-feef {
+  margin-bottom: 0.7em;
+  width: 13.5em;
+}
+
+.without-respo-inlogin-content {
+  display: block;
+}
+
+.responso-inlogin-content {
+  display: none;
+}
+
+.backoround-for-all-same-page {
+  background: rgb(245, 245, 245);
+  width: 100%;
+  height: 100vh;
+  box-shadow: rgb(64 60 67 / 16%) 0px 2px 5px 1px;
+}
+
+.terms-at-sing-up-page-in-steps:hover {
+  color: #006aff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.comtidoion-at-sing-up-new-comtridions:hover {
+  color: #006aff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.termas-and-conditon-accceptsdiviosn {
+  display: flex;
+  gap: 2px;
+  align-items: center;
+}
+
+.resend-oypsec-div-display-end {
+  /* CSSWarings */
+  /* justify-content: end; */
+  justify-content: flex-end;
+  display: flex;
+}
+
+.resendotpbtninotpsection {
+  display: block;
+  box-sizing: border-box;
+  padding: 0px 0 0px 0px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.3;
+  padding-bottom: 10px;
+  /* padding-top: 5px; */
+  color: #000;
+}
+
+.njskuewefdfdfd {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+}
+
+.hjfepwomasfre {
+  width: 50em;
+  font-size: 24px;
+  padding: 20px 0px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.backiocin-on-sje-sign-in-paeg {
+  height: 1.3em;
+}
+
+.back-top-home-page-djhfr {
+  cursor: pointer;
+  margin-top: 10px;
+  text-align: center;
+  color: #000;
+  text-decoration: underline;
+}
+.back-top-home-page-djhfr:hover {
+  text-decoration: underline;
+  color: #000;
+}
+
+.csdca-tbumnge {
+  font-size: 12px;
+  color: grey;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+.csdca-tbumnge {
+  font-size: 12px;
+  color: grey;
+}
+.login-card-main-proffile {
+  width: 360px;
+  height: 29em;
+  background: #fff;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.pargraphio-bgdn-iu {
+  text-align: center;
+  font-size: 12px;
+  padding: 20px 0px;
+  color: #7a7b7d;
+  letter-spacing: 0.5px;
+}
+
+.svs-hiovsn-viose {
+  border: 1px solid var(--main-new-input-style-color-green);
+  display: inline-block;
+  height: 3.2em;
+  width: 100%;
+  margin: 0 0 15px;
+  padding: 1em 0.9375em;
+  color: #999999;
+  font-size: 1em;
+  /* box-shadow: 0 0 0 1px #6b7177; */
+  /* border: 1px solid transparent; */
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  transition: padding 150ms;
+}
+
+.cdfre-ervh {
+  margin-top: 7em;
+  padding: 0px;
+}
+
+.vrvukasfcfvyh {
+  padding: 0px 20px;
+}
+.vrecf-uujfncvbyyh {
+  padding-top: 23px;
+  text-align: center;
+  font-size: 26px;
+}
+
+.crevthzdcsggjny {
+  display: flex;
+  justify-content: center;
+  background: #fff;
+  height: 100vh;
+}
+.scr-jvdrs-escvtvs {
+  padding: 30px 0px;
+}
+
+.tvyubinom {
+  width: 100%;
+  background: #007f61;
+  border: none;
+  color: #fff;
+  padding: 12px;
+  border-radius: 5px;
+}
+
+.get-startde-bottom-btn {
+  width: 100%;
+  background: #007f61;
+  border: none;
+  color: #fff;
+  padding: 12px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .icdsbnlcses-feef {
+    margin-bottom: 0.7em;
+    width: auto;
+  }
+
+  .njskuewefdfdfd {
+    padding: 0px 20px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+  .backiocin-on-sje-sign-in-paeg {
+    height: 1em;
+  }
+
+  .hjfepwomasfre {
+    font-size: 16px;
+  }
+
+  .termas-and-conditon-accceptsdiviosn {
+    display: flex;
+    gap: 2px;
+    align-items: center;
+    font-size: 10px;
+  }
+  .responso-inlogin-content {
+    display: block;
+  }
+
+  .without-respo-inlogin-content {
+    display: none;
+  }
+
+  .ab {
+    line-height: 27px;
+    text-align: center;
+    font-size: 20px;
+  }
+  .CardLayout__content {
+    margin-top: 18px;
+  }
+
+  .cionacdv {
+    width: 100%;
+    /* margin-top: 1.box.boxem; */
+  }
+
+  .forgot-password {
+    color: cornflowerblue;
+    font-size: 13px;
+    text-align: end;
+    padding-right: 1em;
+    cursor: pointer;
+  }
+
+  .get-started-aur-signiup {
+    font-size: 14px;
+  }
+
+  .CardLayout-Toaster-Container {
+    text-align: -webkit-center;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    margin-top: 5rem;
+  }
+
+  .new-sigin-img-for-only-and-signin {
+    display: none;
+  }
+
+  .CardLayout {
+    padding: 40px 25px 40px 25px;
+    overflow: hidden;
+    margin-top: 6rem;
+    width: 20rem;
+    height: auto;
+    margin-top: 0px;
+  }
+
+  .new-sigin-p-a-p {
+    margin-top: 40px;
+  }
+
+  .CardLayout__header h1 {
+    font-size: 18px;
+  }
+
+  .EmailPage__instructions {
+    font-weight: 200;
+    line-height: 21px;
+    margin: 30px 0 0;
+  }
+
+  .Continue-to-Shopisthan {
+    color: #505050;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-top: 15px;
+  }
+
+  .EmailPage__email-field.form-group {
+    margin: 5px 0 0px;
+  }
+
+  .Privacy-Terms-sigin {
+    font-size: 12px;
+    color: #4d4d4d;
+    font-weight: 100;
+    margin-top: 10px;
+  }
+
+  .EmailPage__instructions {
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 21px;
+    margin: 29px 0 0;
+  }
+
+  .CardLayout__header h1 {
+    font-size: 18px;
+  }
+}

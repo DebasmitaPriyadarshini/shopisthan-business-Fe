@@ -1,0 +1,67 @@
+.header-of-create-an-free-account {
+  text-align: center;
+  font-size: 32px;
+  color: #000c;
+}
+
+.shopisthna-sjkasi {
+  padding: 10px 25px;
+  padding-top: 3em;
+}
+
+.free-shopis-parag-at-strore-ds {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  color: gray;
+  padding-bottom: 5px;
+}
+
+.resnd-otp-dnsnjcndf {
+  padding-top: 5px;
+  color: grey;
+  display: flex;
+  /* CSSWarings */
+  /* justify-content: end; */
+  justify-content: flex-end;
+  font-size: 12px;
+}
+
+.inputs-in-store-creation-free-form {
+  padding: 5px 0px;
+}
+
+.accept-all-ahter-terms-ind-dfd {
+  font-size: 10px;
+  text-align: center;
+  padding-top: 3em;
+  color: grey;
+  padding-bottom: 5px;
+}
+
+.alreadt-have-and-aaccount-ds {
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  color: grey;
+  padding-top: 2em;
+  font-size: 13px;
+}
+
+.olurt-bfgng-vytb {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+
+  color: gray;
+  padding-bottom: 5px;
+}
+
+.vscsdc-bdfvs {
+  line-height: 1.4;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+}

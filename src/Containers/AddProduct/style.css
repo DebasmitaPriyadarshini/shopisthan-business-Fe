@@ -1,0 +1,119 @@
+.error-mafg-in-validdatiom-in-inout-area {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+  letter-spacing: 1.2;
+  letter-spacing: 0.4px;
+  padding-left: 3px;
+}
+
+.icdsbnlcses {
+  margin-right: 10px;
+  text-align: left;
+}
+
+.icdsbnlcses-feef {
+  margin-bottom: 0.7em;
+  width: 13.5em;
+}
+
+.new-add-fle-in-img-onyly {
+  text-align: center;
+  padding: 10px 40px;
+  font-size: 12px;
+  /* text-align: center; */
+  width: 20em;
+  border-top: 1px solid #c7c7c7;
+  cursor: pointer;
+}
+
+.remove-btn-at-add-aeimc-ds {
+  border: transparent;
+  border-radius: 0.3em;
+  color: #006aff;
+  background: #006aff;
+  text-align: center;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  font-size: 18px;
+  width: 100px;
+  height: 30px;
+  color: #fff;
+  transition: 0.8s;
+  margin: 10px 15px;
+  cursor: pointer;
+}
+.preview-image-in-adding-product {
+  width: 8em;
+  height: 8em;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.NEw-description-field {
+  line-height: 2.2;
+  min-height: 8rem;
+  max-height: 8rem;
+  min-width: 23rem;
+  max-width: 23rem;
+  padding: 10px;
+  font-size: 0.8rem;
+  border: 1px solid var(--main-border-color-for-input);
+  border-radius: 0.3rem;
+  color: var(--main-input-font-color);
+  letter-spacing: 1px;
+}
+
+.prdeed-tabele-cbsdbsvbbfbf {
+  width: 20.5em;
+  padding: 15px 10px 15px 0;
+}
+
+.lgadkyhdtq,
+.mnbnmnb,
+.prdeed-tabele-cbsdbsvbbfbf {
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.product-view-yyabeld-dedsd {
+  width: 12em;
+  color: #383838;
+  padding: 18px 0px;
+  border-bottom: 1px solid var(--main-border);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  height: 4em;
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .icdsbnlcses-feef {
+    margin-bottom: 0.7em;
+    width: auto;
+  }
+
+  .icdsbnlcses {
+    margin-right: 10px;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+
+  .new-add-fle-in-img-onyly {
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+    /* text-align: center; */
+    width: 15em;
+    border-top: 1px solid #c7c7c7;
+    cursor: pointer;
+  }
+}

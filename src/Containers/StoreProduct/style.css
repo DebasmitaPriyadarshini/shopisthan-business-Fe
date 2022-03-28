@@ -1,0 +1,221 @@
+.pb0 {
+  padding-bottom: 0;
+}
+.p32 {
+  padding: 32px;
+  padding-top: 65px;
+}
+
+.search-bar {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+
+/* .d-flex{
+      display: -webkit-flex!important;
+      display: flex!important;
+  } */
+
+.button-group.btn-primary,
+.button-group.btn-primary-0,
+.button-group.btn-primary-4,
+.button-group.btn-primary-8 {
+  background: rgb(236, 236, 236);
+  color: #5f5f5f;
+  border: 1px solid var(--main-border);
+}
+.button-group {
+  display: -webkit-flex !important;
+  display: flex !important;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.graphics-header,
+.section-text-5 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.button-group .btn-text:first-child {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.button-group .btn-text {
+  border-radius: 4px;
+  padding: 8px 12px;
+  min-width: 130px;
+  text-align: center;
+}
+
+/* Product Css Start ////// */
+
+.Product-table-dashboard {
+  overflow-y: scroll;
+  align-items: center;
+  text-overflow: ellipsis;
+  /* margin-top: 6em; */
+  /* overflow: hidden; */
+  position: fixed;
+  height: 40em;
+  padding-bottom: 5em;
+  white-space: nowrap;
+}
+
+.dashboradprocontainer {
+  padding: 30px 30px 30px 30px;
+  background: white;
+  margin-top: 11rem;
+  box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+  margin-left: 2rem;
+}
+
+.new-order-tab-he-dheader {
+  padding: 15px 10px 15px 30px;
+}
+
+.csikkcbkzefhcz {
+  height: 1rem;
+}
+
+.mnbnmnb {
+  width: auto;
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.lgadkyhdtq {
+  width: auto;
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.product-name-indedeed-tabele-cc {
+  color: #383838;
+  padding: 18px 21px;
+  border-bottom: 1px solid var(--main-border);
+  text-align: left;
+  font-size: 14px;
+  font-weight: 600;
+  max-width: 30em;
+  width: 30em;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  /* ////////////
+          width: auto;
+        letter-spacing: 0.2px;
+        color: #1a1a1a;
+        line-height: 20px;
+        font-size: 15px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+      */
+}
+
+.jfkvvjvsv {
+  color: #383838;
+  padding: 18px 40px;
+  border-bottom: 1px solid var(--main-border);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  height: 4em;
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.ad-new-product-firtstcjds {
+  border: 1px solid var(--main-button-color-blue);
+  padding: 10px;
+  font-size: 0.8rem;
+  border-radius: 3px;
+  color: #fff;
+  background: var(--main-button-color-blue);
+  transition: 0.3s;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+/* ------------ Table css ------------- */
+
+.new-product-table-new-header {
+  padding: 10px 0px;
+  width: 172px;
+}
+
+.new-order-tab-he-dsjkncd {
+  width: 172px;
+  padding: 15px 10px 15px 30px;
+}
+
+.cdf-fkj-dflwe-dsd {
+  display: flex;
+  color: #fff;
+  background: var(--main-button-color-blue);
+}
+
+.productsname-in-table-cjkf {
+  color: #383838;
+  padding: 18px;
+  border-bottom: 1px solid var(--main-border);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  align-items: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 23em;
+}
+.product-mn-sdjks-iuer-dds {
+  font-weight: 600;
+  font-size: 16px;
+  width: 20em;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+}
+
+.product-asdcx {
+  font-weight: 600;
+  font-size: 16px;
+  padding: 20px 0px;
+  text-align: center;
+  width: 144px;
+}
+
+.product-details-in-dget-jhds {
+  color: #383838;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 20px 0px;
+  text-align: center;
+  width: 144px;
+  border-bottom: 1px solid var(--main-border);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.product-active-in-all-sdhe {
+  border-bottom: 2px solid;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.inactive-way-sofhresd {
+  color: grey;
+  font-size: 18px;
+  padding: 10px;
+}

@@ -1,0 +1,32 @@
+.error-with-message-pop-background {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  padding: 0px 40px;
+  background: #ffffff87;
+}
+
+.new-error-box-wiht-message {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #004c3f33;
+}
+
+.paragraoph-message-of-error-in-box {
+  font-size: 14px;
+  /* padding-bottom: 8px; */
+  margin-top: 8px;
+  color: #000c;
+}
+
+.plaese-wait-btn-in-error-box {
+  margin: 10px 0px;
+  width: 100%;
+  background: #004c3fc7;
+  border: none;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
